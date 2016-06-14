@@ -1,0 +1,14 @@
+{
+  "name": "external",
+  "authors": [
+    "alexeiv <alexeiv1985@gmail.com>"
+  ],
+  "description": "",
+  "main": "",
+  "license": "MIT",
+  "homepage": "",
+  "dependencies": {
+    "paper-shadow": "polymer/paper-shadow#0.8-preview"
+  }
+
+}
