@@ -8,7 +8,7 @@
   "license": "MIT",
   "homepage": "",
   "dependencies": {
-    "paper-shadow": "polymer/paper-shadow#0.8-preview"
+    "mypackagetest": "AlexeiVainshtein/mypackagetest"
   }
 
 }
