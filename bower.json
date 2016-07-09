@@ -8,7 +8,7 @@
   "license": "MIT",
   "homepage": "",
   "dependencies": {
-    "mypackagetest": "AlexeiVainshtein/mypackagetest"
+    "mypackagetest": "AlexeiVainshtein/mypackagetest#1.2.0"
   }
 
 }
